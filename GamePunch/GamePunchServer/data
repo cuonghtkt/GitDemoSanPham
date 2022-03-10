@@ -1,0 +1,7 @@
+hp =10
+attack =2
+speed =3
+
+map = 100
+
+ws://localhost:3000/socket.io/?EIO=3&transport=websocket
