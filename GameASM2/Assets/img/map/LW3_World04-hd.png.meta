@@ -1,0 +1,1222 @@
+fileFormatVersion: 2
+guid: cb58460a5b4bc0047aa8fab7aeb66bce
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4422766184083267039
+    second: LW3_World04-hd_0
+  - first:
+      213: -7159182661900005024
+    second: LW3_World04-hd_1
+  - first:
+      213: -5655118248795418868
+    second: LW3_World04-hd_2
+  - first:
+      213: 3802883547542944438
+    second: LW3_World04-hd_3
+  - first:
+      213: -9065567300691148675
+    second: LW3_World04-hd_4
+  - first:
+      213: -3173023523920377931
+    second: LW3_World04-hd_5
+  - first:
+      213: 583898958716861908
+    second: LW3_World04-hd_6
+  - first:
+      213: -5290984455077222857
+    second: LW3_World04-hd_7
+  - first:
+      213: 2135317745220575178
+    second: LW3_World04-hd_8
+  - first:
+      213: 1767711357243479074
+    second: LW3_World04-hd_9
+  - first:
+      213: 8779872633301561722
+    second: LW3_World04-hd_10
+  - first:
+      213: 6335979385459499342
+    second: LW3_World04-hd_11
+  - first:
+      213: -8522636043295225910
+    second: LW3_World04-hd_12
+  - first:
+      213: 1811953848992177007
+    second: LW3_World04-hd_13
+  - first:
+      213: -2379503419680825640
+    second: LW3_World04-hd_14
+  - first:
+      213: 7317346999121095276
+    second: LW3_World04-hd_15
+  - first:
+      213: -2749414586778174552
+    second: LW3_World04-hd_16
+  - first:
+      213: 1189264812546190270
+    second: LW3_World04-hd_17
+  - first:
+      213: -908389694590332808
+    second: LW3_World04-hd_18
+  - first:
+      213: 1143069374466931488
+    second: LW3_World04-hd_19
+  - first:
+      213: 8940729854234302803
+    second: LW3_World04-hd_20
+  - first:
+      213: -993583059639702264
+    second: LW3_World04-hd_21
+  - first:
+      213: -7940263243431228623
+    second: LW3_World04-hd_22
+  - first:
+      213: 1978311895697831007
+    second: LW3_World04-hd_23
+  - first:
+      213: 6905296127246663605
+    second: LW3_World04-hd_24
+  - first:
+      213: -4203072477482015721
+    second: LW3_World04-hd_25
+  - first:
+      213: 3663999182577272460
+    second: LW3_World04-hd_26
+  - first:
+      213: -4460692756480510701
+    second: LW3_World04-hd_27
+  - first:
+      213: 681717768431096120
+    second: LW3_World04-hd_28
+  - first:
+      213: -1141209475679512172
+    second: LW3_World04-hd_29
+  - first:
+      213: 8808755301346122281
+    second: LW3_World04-hd_30
+  - first:
+      213: 5872929267413911735
+    second: LW3_World04-hd_31
+  - first:
+      213: 2166816327866653323
+    second: LW3_World04-hd_32
+  - first:
+      213: -5492000359853346234
+    second: LW3_World04-hd_33
+  - first:
+      213: 9086856254806431433
+    second: LW3_World04-hd_34
+  - first:
+      213: -8668178872625390087
+    second: LW3_World04-hd_35
+  - first:
+      213: -3254170856790257288
+    second: LW3_World04-hd_36
+  - first:
+      213: 6218490336981419337
+    second: LW3_World04-hd_37
+  - first:
+      213: 1216492967910347009
+    second: LW3_World04-hd_38
+  - first:
+      213: 8110550931773929538
+    second: LW3_World04-hd_39
+  - first:
+      213: 1485585176349240436
+    second: LW3_World04-hd_40
+  - first:
+      213: -8475452522124921889
+    second: LW3_World04-hd_41
+  - first:
+      213: -1228292116851625332
+    second: LW3_World04-hd_42
+  - first:
+      213: -9214068891180533086
+    second: LW3_World04-hd_43
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LW3_World04-hd_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1406
+        width: 1200
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd94ee5962d06d30800000000000000
+      internalID: 4422766184083267039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_World04-hd_1
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 1046
+        width: 768
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061905bcc4975ac90800000000000000
+      internalID: -7159182661900005024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_World04-hd_2
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 1987
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f48b13aebf481b0800000000000000
+      internalID: -5655118248795418868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_World04-hd_3
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 1926
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba797d107e86c430800000000000000
+      internalID: 3802883547542944438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_World04-hd_4
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 1865
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7048ea4292a03280800000000000000
+      internalID: -9065567300691148675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_World04-hd_5
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 1805
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b784c89ae727f3d0800000000000000
+      internalID: -3173023523920377931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_World04-hd_6
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 1748
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ddf903620d6a1800800000000000000
+      internalID: 583898958716861908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_World04-hd_7
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 1692
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7362203cba5a296b0800000000000000
+      internalID: -5290984455077222857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_World04-hd_8
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 1636
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acfd5760d2c22ad10800000000000000
+      internalID: 2135317745220575178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_World04-hd_9
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 1580
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224dbe91d1c288810800000000000000
+      internalID: 1767711357243479074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_World04-hd_10
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 1524
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71fc1964af58d970800000000000000
+      internalID: 8779872633301561722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_World04-hd_11
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 1468
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41e28e7eabede750800000000000000
+      internalID: 6335979385459499342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_World04-hd_12
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 1412
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac782796ca389b980800000000000000
+      internalID: -8522636043295225910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_World04-hd_13
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1047
+        width: 193
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b949eec6a552910800000000000000
+      internalID: 1811953848992177007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_World04-hd_14
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1233
+        width: 254
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ded8183f3e4afed0800000000000000
+      internalID: -2379503419680825640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_World04-hd_15
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1233
+        width: 255
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a22e4a3507c8560800000000000000
+      internalID: 7317346999121095276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_World04-hd_16
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1350
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab3fc6100e18d9d0800000000000000
+      internalID: -2749414586778174552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_World04-hd_17
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1221
+        width: 396
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbefa7cb0e118010800000000000000
+      internalID: 1189264812546190270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_World04-hd_18
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 1356
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8705158b260c463f0800000000000000
+      internalID: -908389694590332808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_World04-hd_19
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 1300
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02bbab23a8ffcdf00800000000000000
+      internalID: 1143069374466931488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_World04-hd_20
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 1244
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3599d52be6ad31c70800000000000000
+      internalID: 8940729854234302803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_World04-hd_21
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1048
+        width: 253
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d6453b8751632f0800000000000000
+      internalID: -993583059639702264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_World04-hd_22
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1025
+        width: 122
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13bc03046a48ec190800000000000000
+      internalID: -7940263243431228623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_World04-hd_23
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1103
+        width: 170
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54bff50030647b10800000000000000
+      internalID: 1978311895697831007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_World04-hd_24
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1048
+        width: 252
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bffa6ded3a84df50800000000000000
+      internalID: 6905296127246663605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_World04-hd_25
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 968
+        width: 171
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714a67eb9dfaba5c0800000000000000
+      internalID: -4203072477482015721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_World04-hd_26
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 1188
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8607d608d329d230800000000000000
+      internalID: 3663999182577272460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_World04-hd_27
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 1132
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31532dd529f6812c0800000000000000
+      internalID: -4460692756480510701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_World04-hd_28
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 1076
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8315860d2b2f57900800000000000000
+      internalID: 681717768431096120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_World04-hd_29
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1020
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49910db370c9920f0800000000000000
+      internalID: -1141209475679512172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_World04-hd_30
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1020
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a131a964cfe3a70800000000000000
+      internalID: 8808755301346122281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_World04-hd_31
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1020
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b883377d06d08150800000000000000
+      internalID: 5872929267413911735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_World04-hd_32
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1020
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a120c48f3121e10800000000000000
+      internalID: 2166816327866653323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_World04-hd_33
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1021
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642bf9445ce78c3b0800000000000000
+      internalID: -5492000359853346234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_World04-hd_34
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1021
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c616c89e9ffa1e70800000000000000
+      internalID: 9086856254806431433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_World04-hd_35
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1021
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd1e97cd3174b780800000000000000
+      internalID: -8668178872625390087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_World04-hd_36
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1021
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871969ad8dcd6d2d0800000000000000
+      internalID: -3254170856790257288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_World04-hd_37
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1021
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9450af6b3048c4650800000000000000
+      internalID: 6218490336981419337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_World04-hd_38
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1022
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1019e08b8e9d1e010800000000000000
+      internalID: 1216492967910347009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_World04-hd_39
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1022
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2483915d9177e8070800000000000000
+      internalID: 8110550931773929538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_World04-hd_40
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1023
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ce1efc8dbdd9410800000000000000
+      internalID: 1485585176349240436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_World04-hd_41
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 930
+        width: 139
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd33e0406d4216a80800000000000000
+      internalID: -8475452522124921889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_World04-hd_42
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 1020
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8275a6d3da34fee0800000000000000
+      internalID: -1228292116851625332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_World04-hd_43
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 18
+        width: 768
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aaf435692d012080800000000000000
+      internalID: -9214068891180533086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      LW3_World04-hd_36: -3254170856790257288
+      LW3_World04-hd_41: -8475452522124921889
+      LW3_World04-hd_24: 6905296127246663605
+      LW3_World04-hd_22: -7940263243431228623
+      LW3_World04-hd_35: -8668178872625390087
+      LW3_World04-hd_21: -993583059639702264
+      LW3_World04-hd_31: 5872929267413911735
+      LW3_World04-hd_6: 583898958716861908
+      LW3_World04-hd_16: -2749414586778174552
+      LW3_World04-hd_9: 1767711357243479074
+      LW3_World04-hd_17: 1189264812546190270
+      LW3_World04-hd_14: -2379503419680825640
+      LW3_World04-hd_13: 1811953848992177007
+      LW3_World04-hd_40: 1485585176349240436
+      LW3_World04-hd_4: -9065567300691148675
+      LW3_World04-hd_8: 2135317745220575178
+      LW3_World04-hd_25: -4203072477482015721
+      LW3_World04-hd_15: 7317346999121095276
+      LW3_World04-hd_7: -5290984455077222857
+      LW3_World04-hd_26: 3663999182577272460
+      LW3_World04-hd_11: 6335979385459499342
+      LW3_World04-hd_28: 681717768431096120
+      LW3_World04-hd_12: -8522636043295225910
+      LW3_World04-hd_19: 1143069374466931488
+      LW3_World04-hd_32: 2166816327866653323
+      LW3_World04-hd_43: -9214068891180533086
+      LW3_World04-hd_18: -908389694590332808
+      LW3_World04-hd_30: 8808755301346122281
+      LW3_World04-hd_33: -5492000359853346234
+      LW3_World04-hd_39: 8110550931773929538
+      LW3_World04-hd_10: 8779872633301561722
+      LW3_World04-hd_42: -1228292116851625332
+      LW3_World04-hd_29: -1141209475679512172
+      LW3_World04-hd_20: 8940729854234302803
+      LW3_World04-hd_3: 3802883547542944438
+      LW3_World04-hd_34: 9086856254806431433
+      LW3_World04-hd_5: -3173023523920377931
+      LW3_World04-hd_23: 1978311895697831007
+      LW3_World04-hd_38: 1216492967910347009
+      LW3_World04-hd_37: 6218490336981419337
+      LW3_World04-hd_27: -4460692756480510701
+      LW3_World04-hd_1: -7159182661900005024
+      LW3_World04-hd_2: -5655118248795418868
+      LW3_World04-hd_0: 4422766184083267039
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

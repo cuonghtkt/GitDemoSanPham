@@ -1,0 +1,530 @@
+fileFormatVersion: 2
+guid: d8030c8ec8b72c841953309e76b32d08
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4879439291233243315
+    second: Tannenzapfen-hd_0
+  - first:
+      213: -1738182140305006475
+    second: Tannenzapfen-hd_1
+  - first:
+      213: -1242832920625679894
+    second: Tannenzapfen-hd_2
+  - first:
+      213: -7801225778737288131
+    second: Tannenzapfen-hd_3
+  - first:
+      213: -6239752939389145902
+    second: Tannenzapfen-hd_4
+  - first:
+      213: -5833778726346304849
+    second: Tannenzapfen-hd_5
+  - first:
+      213: -8124211901801367164
+    second: Tannenzapfen-hd_6
+  - first:
+      213: 3605710746515502003
+    second: Tannenzapfen-hd_7
+  - first:
+      213: -8519377466217509003
+    second: Tannenzapfen-hd_8
+  - first:
+      213: -5239615441744503175
+    second: Tannenzapfen-hd_9
+  - first:
+      213: -2161460333815081074
+    second: Tannenzapfen-hd_10
+  - first:
+      213: -3984242773290953378
+    second: Tannenzapfen-hd_11
+  - first:
+      213: -3430723250140592390
+    second: Tannenzapfen-hd_12
+  - first:
+      213: -6220192116151068886
+    second: Tannenzapfen-hd_13
+  - first:
+      213: -2886594830757944082
+    second: Tannenzapfen-hd_14
+  - first:
+      213: -6367542584404313176
+    second: Tannenzapfen-hd_15
+  - first:
+      213: -5198573416466004766
+    second: Tannenzapfen-hd_16
+  - first:
+      213: 3415391823444382421
+    second: Tannenzapfen-hd_17
+  - first:
+      213: -8543844084869511481
+    second: Tannenzapfen-hd_18
+  - first:
+      213: 2472661170190651531
+    second: Tannenzapfen-hd_19
+  - first:
+      213: -1438547640703260531
+    second: Tannenzapfen-hd_20
+  - first:
+      213: 5660021999928925917
+    second: Tannenzapfen-hd_21
+  - first:
+      213: 1863215939663295348
+    second: Tannenzapfen-hd_22
+  - first:
+      213: -4839303144184795420
+    second: Tannenzapfen-hd_23
+  - first:
+      213: -7109723587723597200
+    second: Tannenzapfen-hd_24
+  - first:
+      213: -820639971276768075
+    second: Tannenzapfen-hd_25
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tannenzapfen-hd_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 3
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b09a09de2047b340800000000000000
+      internalID: 4879439291233243315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tannenzapfen-hd_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 3
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570213c7d8cb0e7e0800000000000000
+      internalID: -1738182140305006475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tannenzapfen-hd_2
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 3
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1f1f22b0290cee0800000000000000
+      internalID: -1242832920625679894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tannenzapfen-hd_3
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 3
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c6eb5ac7a7cb390800000000000000
+      internalID: -7801225778737288131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tannenzapfen-hd_4
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 3
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dca281e2c1f769a0800000000000000
+      internalID: -6239752939389145902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tannenzapfen-hd_5
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 3
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2d5e538214a0fa0800000000000000
+      internalID: -5833778726346304849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tannenzapfen-hd_6
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 3
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489f029b150014f80800000000000000
+      internalID: -8124211901801367164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tannenzapfen-hd_7
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 3
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b37dd0f1de0a0230800000000000000
+      internalID: 3605710746515502003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tannenzapfen-hd_8
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 7
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f43a2055715c980800000000000000
+      internalID: -8519377466217509003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tannenzapfen-hd_9
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 7
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97eda2334852947b0800000000000000
+      internalID: -5239615441744503175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tannenzapfen-hd_10
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 8
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87dade3743f002e0800000000000000
+      internalID: -2161460333815081074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tannenzapfen-hd_11
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 6
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55531f9e4025b8c0800000000000000
+      internalID: -3984242773290953378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tannenzapfen-hd_12
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 5
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af642b8716f9360d0800000000000000
+      internalID: -3430723250140592390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tannenzapfen-hd_13
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 4
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a275122f9307da9a0800000000000000
+      internalID: -6220192116151068886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tannenzapfen-hd_14
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 3
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4a1369b41c0f7d0800000000000000
+      internalID: -2886594830757944082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Tannenzapfen-hd_4: -6239752939389145902
+      Tannenzapfen-hd_1: -1738182140305006475
+      Tannenzapfen-hd_12: -3430723250140592390
+      Tannenzapfen-hd_8: -8519377466217509003
+      Tannenzapfen-hd_5: -5833778726346304849
+      Tannenzapfen-hd_11: -3984242773290953378
+      Tannenzapfen-hd_3: -7801225778737288131
+      Tannenzapfen-hd_13: -6220192116151068886
+      Tannenzapfen-hd_10: -2161460333815081074
+      Tannenzapfen-hd_14: -2886594830757944082
+      Tannenzapfen-hd_0: 4879439291233243315
+      Tannenzapfen-hd_7: 3605710746515502003
+      Tannenzapfen-hd_9: -5239615441744503175
+      Tannenzapfen-hd_2: -1242832920625679894
+      Tannenzapfen-hd_6: -8124211901801367164
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

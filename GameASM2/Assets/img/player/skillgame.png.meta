@@ -1,0 +1,2747 @@
+fileFormatVersion: 2
+guid: 4c401ec1bebdf6a4f9eb959ea62ce006
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6206539607899405434
+    second: skillgame_1
+  - first:
+      213: 163547158374129682
+    second: skillgame_2
+  - first:
+      213: -7443812782466853514
+    second: skillgame_3
+  - first:
+      213: 6324394274936761111
+    second: skillgame_4
+  - first:
+      213: 5297568538082091706
+    second: skillgame_5
+  - first:
+      213: -4848190078818688102
+    second: skillgame_6
+  - first:
+      213: -1653645708342908515
+    second: skillgame_7
+  - first:
+      213: 361472399301883139
+    second: skillgame_8
+  - first:
+      213: 8830027497845562689
+    second: skillgame_9
+  - first:
+      213: -79802026102362724
+    second: skillgame_10
+  - first:
+      213: 3552504307759997119
+    second: skillgame_11
+  - first:
+      213: 7185317370149414060
+    second: skillgame_12
+  - first:
+      213: 4047711491059935954
+    second: skillgame_13
+  - first:
+      213: -2544990599202140957
+    second: skillgame_14
+  - first:
+      213: -7839161331801885899
+    second: skillgame_15
+  - first:
+      213: 6323516998310482535
+    second: skillgame_16
+  - first:
+      213: -1300825132201239341
+    second: skillgame_17
+  - first:
+      213: 2387435566129377856
+    second: skillgame_18
+  - first:
+      213: 3021201336398015962
+    second: skillgame_19
+  - first:
+      213: -1382030347838529081
+    second: skillgame_20
+  - first:
+      213: 4588957515405451135
+    second: skillgame_21
+  - first:
+      213: -8828795617284349932
+    second: skillgame_22
+  - first:
+      213: -7533863869820118303
+    second: skillgame_23
+  - first:
+      213: -3936803234878887071
+    second: skillgame_24
+  - first:
+      213: -9045203208741521400
+    second: skillgame_25
+  - first:
+      213: 6524980320609279152
+    second: skillgame_26
+  - first:
+      213: 5720269759768369063
+    second: skillgame_27
+  - first:
+      213: 2324925576610463270
+    second: skillgame_28
+  - first:
+      213: 3296462940966701678
+    second: skillgame_29
+  - first:
+      213: -9130095666101413882
+    second: skillgame_30
+  - first:
+      213: 7605947041347743164
+    second: skillgame_31
+  - first:
+      213: -1157279392748533699
+    second: skillgame_32
+  - first:
+      213: -1778941659215633691
+    second: skillgame_33
+  - first:
+      213: 9156987590169041686
+    second: skillgame_34
+  - first:
+      213: -8140416140267243252
+    second: skillgame_35
+  - first:
+      213: -2816356054652706360
+    second: skillgame_36
+  - first:
+      213: -7795221616484135132
+    second: skillgame_37
+  - first:
+      213: 980559706107794222
+    second: skillgame_38
+  - first:
+      213: -1042707434383757812
+    second: skillgame_39
+  - first:
+      213: -851219067186380983
+    second: skillgame_40
+  - first:
+      213: -3305107992342202601
+    second: skillgame_41
+  - first:
+      213: 8998909420291705525
+    second: skillgame_42
+  - first:
+      213: -5342219363034098831
+    second: skillgame_43
+  - first:
+      213: 8263342226264656406
+    second: skillgame_44
+  - first:
+      213: -6875533372869194961
+    second: skillgame_45
+  - first:
+      213: 8485463474618961443
+    second: skillgame_46
+  - first:
+      213: 6212402973020310354
+    second: skillgame_47
+  - first:
+      213: -907076659328097222
+    second: skillgame_48
+  - first:
+      213: 6136156767778130990
+    second: skillgame_49
+  - first:
+      213: 660405693652462234
+    second: skillgame_50
+  - first:
+      213: 3989259159776679449
+    second: skillgame_51
+  - first:
+      213: -5719419450397155114
+    second: skillgame_52
+  - first:
+      213: -1468675866209123443
+    second: skillgame_53
+  - first:
+      213: 6980163751077354553
+    second: skillgame_54
+  - first:
+      213: 7201207230110272880
+    second: skillgame_55
+  - first:
+      213: 3861432114403898851
+    second: skillgame_56
+  - first:
+      213: 1626961079238011916
+    second: skillgame_57
+  - first:
+      213: 502519863272655107
+    second: skillgame_58
+  - first:
+      213: -2414175272711632448
+    second: skillgame_59
+  - first:
+      213: -4858567111912892475
+    second: skillgame_60
+  - first:
+      213: -5130856138631520159
+    second: skillgame_61
+  - first:
+      213: 5908615146029666360
+    second: skillgame_62
+  - first:
+      213: -7871855778754430570
+    second: skillgame_63
+  - first:
+      213: 6997030121276677648
+    second: skillgame_64
+  - first:
+      213: 8207547935158214768
+    second: skillgame_65
+  - first:
+      213: -4522467463370409727
+    second: skillgame_66
+  - first:
+      213: 2747341265947066748
+    second: skillgame_67
+  - first:
+      213: -8211453733531391446
+    second: skillgame_68
+  - first:
+      213: 6727179688845302609
+    second: skillgame_69
+  - first:
+      213: 80812985572092322
+    second: skillgame_70
+  - first:
+      213: 6316494501264233997
+    second: skillgame_71
+  - first:
+      213: -9181757840024842645
+    second: skillgame_72
+  - first:
+      213: -751965106775669804
+    second: skillgame_73
+  - first:
+      213: 5145202524502700636
+    second: skillgame_74
+  - first:
+      213: -9176097616465972261
+    second: skillgame_75
+  - first:
+      213: 6523255555695852754
+    second: skillgame_76
+  - first:
+      213: -3008839548304967006
+    second: skillgame_77
+  - first:
+      213: 1470753606776923174
+    second: skillgame_78
+  - first:
+      213: 5005110846582858586
+    second: skillgame_79
+  - first:
+      213: -916883600044195524
+    second: skillgame_80
+  - first:
+      213: 8555949158167458599
+    second: skillgame_81
+  - first:
+      213: -4698729439445511110
+    second: skillgame_82
+  - first:
+      213: 7891601684150102501
+    second: skillgame_83
+  - first:
+      213: 5522494430202191220
+    second: skillgame_84
+  - first:
+      213: 945312338810878948
+    second: skillgame_85
+  - first:
+      213: -4460012440698824176
+    second: skillgame_86
+  - first:
+      213: -1450635993016783247
+    second: skillgame_87
+  - first:
+      213: 893356347625481923
+    second: skillgame_88
+  - first:
+      213: 1761898420816091023
+    second: skillgame_89
+  - first:
+      213: 8885696185991017845
+    second: skillgame_90
+  - first:
+      213: 915973535565007812
+    second: skillgame_91
+  - first:
+      213: -6118927228668146452
+    second: skillgame_92
+  - first:
+      213: 1446529591879576655
+    second: skillgame_93
+  - first:
+      213: 4575425156009156470
+    second: skillgame_94
+  - first:
+      213: 3211365668643278085
+    second: skillgame_95
+  - first:
+      213: 4499984319605526089
+    second: skillgame_96
+  - first:
+      213: 7278982484092630834
+    second: skillgame_97
+  - first:
+      213: 1794124917496081967
+    second: skillgame_98
+  - first:
+      213: -5077025022730933130
+    second: skillgame_99
+  - first:
+      213: -7742077643186153781
+    second: skillgame_100
+  - first:
+      213: 4469629538258852834
+    second: skillgame_101
+  - first:
+      213: -9074623104341317468
+    second: skillgame_102
+  - first:
+      213: -2667283811304002342
+    second: skillgame_103
+  - first:
+      213: -1187279845275384381
+    second: skillgame_104
+  - first:
+      213: 5180969623595779838
+    second: skillgame_0
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: skillgame_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 489
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c7c35c3ee022650800000000000000
+      internalID: 6206539607899405434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_2
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 489
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2102ae62649054200800000000000000
+      internalID: 163547158374129682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_3
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 489
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6751d8e96b342b890800000000000000
+      internalID: -7443812782466853514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_4
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 489
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71bae11c513c4c750800000000000000
+      internalID: 6324394274936761111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_5
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 489
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab22ba5848eb48940800000000000000
+      internalID: 5297568538082091706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_6
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 489
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9360746fc4c7bcb0800000000000000
+      internalID: -4848190078818688102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_7
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 489
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d992fd95df11d09e0800000000000000
+      internalID: -1653645708342908515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_8
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 489
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3053f746b35340500800000000000000
+      internalID: 361472399301883139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_9
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 489
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d140ec93f8a8a70800000000000000
+      internalID: 8830027497845562689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 465
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9defc5ea7c74eef0800000000000000
+      internalID: -79802026102362724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_11
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 465
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0641f88d70d4130800000000000000
+      internalID: 3552504307759997119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_12
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 465
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca42336241067b360800000000000000
+      internalID: 7185317370149414060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_13
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 465
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dae4e9c72c5c2830800000000000000
+      internalID: 4047711491059935954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_14
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 465
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec09d1b8806eacd0800000000000000
+      internalID: -2544990599202140957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_15
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 465
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53378f86d44b53390800000000000000
+      internalID: -7839161331801885899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_16
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 465
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762d07fd435a1c750800000000000000
+      internalID: 6323516998310482535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_17
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 465
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc9e303f6a82fde0800000000000000
+      internalID: -1300825132201239341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_18
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 465
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042764b8fffd12120800000000000000
+      internalID: 2387435566129377856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_19
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 465
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add60f2cb967de920800000000000000
+      internalID: 3021201336398015962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 441
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1664098ba02dce0800000000000000
+      internalID: -1382030347838529081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_21
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 441
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7fd9130c804faf30800000000000000
+      internalID: 4588957515405451135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_22
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 441
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410ad3db921d97580800000000000000
+      internalID: -8828795617284349932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_23
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 441
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ead83df9b6527790800000000000000
+      internalID: -7533863869820118303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_24
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 441
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b6f62e05aad59c0800000000000000
+      internalID: -3936803234878887071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_25
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 441
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808fcbdea9bf87280800000000000000
+      internalID: -9045203208741521400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_26
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 441
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc9450e7036d8a50800000000000000
+      internalID: 6524980320609279152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_27
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 441
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7176a0a0b726f40800000000000000
+      internalID: 5720269759768369063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_28
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 441
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e36137e7bc34020800000000000000
+      internalID: 2324925576610463270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_29
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 441
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a4f8354936fbd20800000000000000
+      internalID: 3296462940966701678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 417
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60811b07d526b4180800000000000000
+      internalID: -9130095666101413882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_31
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 417
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd27fb3980cd8960800000000000000
+      internalID: 7605947041347743164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_32
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 417
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d380859168480ffe0800000000000000
+      internalID: -1157279392748533699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_33
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 417
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2ee467cfdef47e0800000000000000
+      internalID: -1778941659215633691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_34
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 417
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b9fac82b7241f70800000000000000
+      internalID: 9156987590169041686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_35
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 417
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09b38376ae670f80800000000000000
+      internalID: -8140416140267243252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_36
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 417
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1a769071b4ae8d0800000000000000
+      internalID: -2816356054652706360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_37
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 417
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f440c9d3fc1d390800000000000000
+      internalID: -7795221616484135132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_38
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 417
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23dd938bd5ab9d00800000000000000
+      internalID: 980559706107794222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_39
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 417
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ea5e8ec1f8781f0800000000000000
+      internalID: -1042707434383757812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 393
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ff052b4ccdf24f0800000000000000
+      internalID: -851219067186380983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_41
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 393
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717732ccac5e122d0800000000000000
+      internalID: -3305107992342202601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_42
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 393
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba4762807c82ec70800000000000000
+      internalID: 8998909420291705525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_43
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 393
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173932a2bcf9cd5b0800000000000000
+      internalID: -5342219363034098831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_44
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 393
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a8df549f94da270800000000000000
+      internalID: 8263342226264656406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_45
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 393
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2bc9c453d23590a0800000000000000
+      internalID: -6875533372869194961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_46
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 393
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e073f721c62c570800000000000000
+      internalID: 8485463474618961443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_47
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 393
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25bc478d693e63650800000000000000
+      internalID: 6212402973020310354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_48
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 393
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3463b0959a6963f0800000000000000
+      internalID: -907076659328097222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_49
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 393
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c468dc112082550800000000000000
+      internalID: 6136156767778130990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_50
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 369
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9aecc9ba7b3a2900800000000000000
+      internalID: 660405693652462234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_51
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 369
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916567fd112bc5730800000000000000
+      internalID: 3989259159776679449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_52
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 369
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d02e99005a80a0b0800000000000000
+      internalID: -5719419450397155114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_53
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 369
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d838a60c4173e9be0800000000000000
+      internalID: -1468675866209123443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_54
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 369
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c1609f2f58ed060800000000000000
+      internalID: 6980163751077354553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_55
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 369
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d82b872d3dfe360800000000000000
+      internalID: 7201207230110272880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_56
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 369
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5745f9c00969530800000000000000
+      internalID: 3861432114403898851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_57
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 369
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c2e574b70249610800000000000000
+      internalID: 1626961079238011916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_58
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 369
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309c1f6372f49f600800000000000000
+      internalID: 502519863272655107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_59
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 369
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9cd7c51602f7ed0800000000000000
+      internalID: -2414175272711632448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_60
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 345
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7590914f6e29cb0800000000000000
+      internalID: -4858567111912892475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_61
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 345
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1606c3fb6898bc8b0800000000000000
+      internalID: -5130856138631520159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_62
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 345
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830579d8b2e9ff150800000000000000
+      internalID: 5908615146029666360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_63
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 345
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6997c3840ec81c290800000000000000
+      internalID: -7871855778754430570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_64
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 345
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e976dc2d17a1160800000000000000
+      internalID: 6997030121276677648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_65
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 345
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070a8109c5117e170800000000000000
+      internalID: 8207547935158214768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_66
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 345
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1097b899dc7fc31c0800000000000000
+      internalID: -4522467463370409727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_67
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 345
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c710c894354802620800000000000000
+      internalID: 2747341265947066748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_68
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 345
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a6e43e55e0b0e80800000000000000
+      internalID: -8211453733531391446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_69
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 345
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15bd8dde84ebb5d50800000000000000
+      internalID: 6727179688845302609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_70
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 321
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a963427bfa1f1100800000000000000
+      internalID: 80812985572092322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_71
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 321
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06109d5842b8a750800000000000000
+      internalID: 6316494501264233997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_72
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 321
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e49ab34e7d39080800000000000000
+      internalID: -9181757840024842645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_73
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 321
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3c52f28bb7095f0800000000000000
+      internalID: -751965106775669804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_74
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 321
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c523d628f6e676740800000000000000
+      internalID: 5145202524502700636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_75
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 321
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3bc3ab5d3f7a080800000000000000
+      internalID: -9176097616465972261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_76
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 321
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc3850cd52478a50800000000000000
+      internalID: 6523255555695852754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_77
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 321
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aab2215f547e36d0800000000000000
+      internalID: -3008839548304967006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_78
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 321
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624201cec9a296410800000000000000
+      internalID: 1470753606776923174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_79
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 321
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53a608fbc9b57540800000000000000
+      internalID: 5005110846582858586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_80
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 297
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c310cfe39339643f0800000000000000
+      internalID: -916883600044195524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_81
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 297
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723bfd09d66dcb670800000000000000
+      internalID: 8555949158167458599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_82
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 297
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a341e224872caceb0800000000000000
+      internalID: -4698729439445511110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_83
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 297
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e924a49be9948d60800000000000000
+      internalID: 7891601684150102501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_84
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 297
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d5642cc67d3ac40800000000000000
+      internalID: 5522494430202191220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_85
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 297
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebbd9c409c6e1d00800000000000000
+      internalID: 945312338810878948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_86
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 297
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ad25ab05ada12c0800000000000000
+      internalID: -4460012440698824176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_87
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 297
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ea6d9004e4edbe0800000000000000
+      internalID: -1450635993016783247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_88
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 297
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6ae0e6dd6d56c00800000000000000
+      internalID: 893356347625481923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_89
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 297
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87901f5745837810800000000000000
+      internalID: 1761898420816091023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_90
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 273
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575b90c4a95505b70800000000000000
+      internalID: 8885696185991017845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_91
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 273
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cbc20bd31136bc00800000000000000
+      internalID: 915973535565007812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_92
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 273
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec05c0ea14351ba0800000000000000
+      internalID: -6118927228668146452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_93
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 273
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ca211fffa131410800000000000000
+      internalID: 1446529591879576655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_94
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 273
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67fdf4010fc2f7f30800000000000000
+      internalID: 4575425156009156470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_95
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 273
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d0e53af00119c20800000000000000
+      internalID: 3211365668643278085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_96
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 273
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e4ae095e7237e30800000000000000
+      internalID: 4499984319605526089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_97
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 273
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237b1aae004240560800000000000000
+      internalID: 7278982484092630834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_98
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 273
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ee7065b1306e810800000000000000
+      internalID: 1794124917496081967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_99
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 273
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c6a5c14a8ca89b0800000000000000
+      internalID: -5077025022730933130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_100
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 249
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6556e176d9e8490800000000000000
+      internalID: -7742077643186153781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_101
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 249
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb13894260570e30800000000000000
+      internalID: 4469629538258852834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_102
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 249
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8ee23bd56701280800000000000000
+      internalID: -9074623104341317468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_103
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 249
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc23186187ebfad0800000000000000
+      internalID: -2667283811304002342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_104
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 249
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5416d654fe58fe0800000000000000
+      internalID: -1187279845275384381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillgame_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 488
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef604863c6086e740800000000000000
+      internalID: 5180969623595779838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      skillgame_93: 1446529591879576655
+      skillgame_80: -916883600044195524
+      skillgame_84: 5522494430202191220
+      skillgame_85: 945312338810878948
+      skillgame_23: -7533863869820118303
+      skillgame_95: 3211365668643278085
+      skillgame_100: -7742077643186153781
+      skillgame_98: 1794124917496081967
+      skillgame_53: -1468675866209123443
+      skillgame_26: 6524980320609279152
+      skillgame_91: 915973535565007812
+      skillgame_0: 5180969623595779838
+      skillgame_45: -6875533372869194961
+      skillgame_10: -79802026102362724
+      skillgame_2: 163547158374129682
+      skillgame_102: -9074623104341317468
+      skillgame_18: 2387435566129377856
+      skillgame_27: 5720269759768369063
+      skillgame_97: 7278982484092630834
+      skillgame_56: 3861432114403898851
+      skillgame_22: -8828795617284349932
+      skillgame_88: 893356347625481923
+      skillgame_74: 5145202524502700636
+      skillgame_1: 6206539607899405434
+      skillgame_57: 1626961079238011916
+      skillgame_36: -2816356054652706360
+      skillgame_58: 502519863272655107
+      skillgame_43: -5342219363034098831
+      skillgame_65: 8207547935158214768
+      skillgame_20: -1382030347838529081
+      skillgame_79: 5005110846582858586
+      skillgame_17: -1300825132201239341
+      skillgame_28: 2324925576610463270
+      skillgame_59: -2414175272711632448
+      skillgame_7: -1653645708342908515
+      skillgame_51: 3989259159776679449
+      skillgame_46: 8485463474618961443
+      skillgame_69: 6727179688845302609
+      skillgame_62: 5908615146029666360
+      skillgame_77: -3008839548304967006
+      skillgame_35: -8140416140267243252
+      skillgame_8: 361472399301883139
+      skillgame_33: -1778941659215633691
+      skillgame_55: 7201207230110272880
+      skillgame_86: -4460012440698824176
+      skillgame_68: -8211453733531391446
+      skillgame_34: 9156987590169041686
+      skillgame_21: 4588957515405451135
+      skillgame_49: 6136156767778130990
+      skillgame_78: 1470753606776923174
+      skillgame_32: -1157279392748533699
+      skillgame_66: -4522467463370409727
+      skillgame_37: -7795221616484135132
+      skillgame_30: -9130095666101413882
+      skillgame_99: -5077025022730933130
+      skillgame_104: -1187279845275384381
+      skillgame_19: 3021201336398015962
+      skillgame_81: 8555949158167458599
+      skillgame_42: 8998909420291705525
+      skillgame_44: 8263342226264656406
+      skillgame_92: -6118927228668146452
+      skillgame_9: 8830027497845562689
+      skillgame_15: -7839161331801885899
+      skillgame_67: 2747341265947066748
+      skillgame_24: -3936803234878887071
+      skillgame_4: 6324394274936761111
+      skillgame_101: 4469629538258852834
+      skillgame_60: -4858567111912892475
+      skillgame_29: 3296462940966701678
+      skillgame_25: -9045203208741521400
+      skillgame_75: -9176097616465972261
+      skillgame_12: 7185317370149414060
+      skillgame_16: 6323516998310482535
+      skillgame_40: -851219067186380983
+      skillgame_73: -751965106775669804
+      skillgame_52: -5719419450397155114
+      skillgame_38: 980559706107794222
+      skillgame_63: -7871855778754430570
+      skillgame_39: -1042707434383757812
+      skillgame_87: -1450635993016783247
+      skillgame_96: 4499984319605526089
+      skillgame_50: 660405693652462234
+      skillgame_14: -2544990599202140957
+      skillgame_64: 6997030121276677648
+      skillgame_13: 4047711491059935954
+      skillgame_89: 1761898420816091023
+      skillgame_76: 6523255555695852754
+      skillgame_47: 6212402973020310354
+      skillgame_48: -907076659328097222
+      skillgame_71: 6316494501264233997
+      skillgame_70: 80812985572092322
+      skillgame_82: -4698729439445511110
+      skillgame_90: 8885696185991017845
+      skillgame_31: 7605947041347743164
+      skillgame_72: -9181757840024842645
+      skillgame_103: -2667283811304002342
+      skillgame_94: 4575425156009156470
+      skillgame_6: -4848190078818688102
+      skillgame_54: 6980163751077354553
+      skillgame_41: -3305107992342202601
+      skillgame_3: -7443812782466853514
+      skillgame_11: 3552504307759997119
+      skillgame_61: -5130856138631520159
+      skillgame_5: 5297568538082091706
+      skillgame_83: 7891601684150102501
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

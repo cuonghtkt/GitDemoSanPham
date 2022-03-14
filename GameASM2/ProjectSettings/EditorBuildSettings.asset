@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scene/KhoiDau.unity
+    guid: ae21533124aba264396dcda79b8eb7ed
+  - enabled: 1
+    path: Assets/Scene/Menu.unity
+    guid: e947405a3621d8e43a10eb9d22d3a14e
+  - enabled: 1
+    path: Assets/Scene/MapSelect.unity
+    guid: 0941376ac3cea324796569c50b15a5a2
+  - enabled: 1
+    path: Assets/Scene/EndGame.unity
+    guid: 952bd39f017380f4db6d007bf360b531
+  - enabled: 1
+    path: Assets/Scene/Lever1/M11.unity
+    guid: 81d49af1517bfb24f861b8cfd816118d
+  - enabled: 1
+    path: Assets/Scene/Lever1/M12.unity
+    guid: ef86857e2b1552d4296e5d3eded3cd15
+  - enabled: 1
+    path: Assets/Scene/Lever1/M13.unity
+    guid: 2d82344d8a7dce849923c43fd795d3c9
+  - enabled: 1
+    path: Assets/Scene/Lever1/M14.unity
+    guid: b9c59e564bddc9d4a8003b9296be2a28
+  - enabled: 1
+    path: Assets/Scene/Lever1/M15.unity
+    guid: 9d27c23e93e9d6f409e84ef00e05aae5
+  - enabled: 1
+    path: Assets/Scene/Lever2/M21.unity
+    guid: 2b244796ae5e97444ad30f8489f8a643
+  - enabled: 1
+    path: Assets/Scene/Lever2/M22.unity
+    guid: eed10433f8ca007439b248505a5cf38d
+  - enabled: 1
+    path: Assets/Scene/Lever2/M23.unity
+    guid: 545f7566a6bdaa342b68046a39901051
+  - enabled: 1
+    path: Assets/Scene/Lever2/M24.unity
+    guid: 9cae9e8a79be0514b90c0096b6f7fd33
+  - enabled: 1
+    path: Assets/Scene/Lever2/M25.unity
+    guid: 021b532ae59f4904d95f6d17fd759ec5
+  - enabled: 1
+    path: Assets/Scene/Details.unity
+    guid: 94885e5953b39a748ab42f93c560353a
+  m_configObjects: {}

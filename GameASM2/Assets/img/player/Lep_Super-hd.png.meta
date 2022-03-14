@@ -1,0 +1,1397 @@
+fileFormatVersion: 2
+guid: 8235f3ef3433e144090ed60a5b3ae83b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7109943579784579213
+    second: Lep_Super-hd_0
+  - first:
+      213: -1868542125318297692
+    second: Lep_Super-hd_1
+  - first:
+      213: 1219055105745635116
+    second: Lep_Super-hd_2
+  - first:
+      213: -8564130652277856949
+    second: Lep_Super-hd_3
+  - first:
+      213: 5524853271246766148
+    second: Lep_Super-hd_4
+  - first:
+      213: 3813147030527971037
+    second: Lep_Super-hd_5
+  - first:
+      213: -8291135362086158965
+    second: Lep_Super-hd_6
+  - first:
+      213: -7727824223498414208
+    second: Lep_Super-hd_7
+  - first:
+      213: 370948332662594603
+    second: Lep_Super-hd_8
+  - first:
+      213: 7607469206559211755
+    second: Lep_Super-hd_9
+  - first:
+      213: 8277012752244338699
+    second: Lep_Super-hd_10
+  - first:
+      213: -4520049613104684784
+    second: Lep_Super-hd_11
+  - first:
+      213: 5550797079117730480
+    second: Lep_Super-hd_12
+  - first:
+      213: 261405800170222308
+    second: Lep_Super-hd_13
+  - first:
+      213: 3660458340793960780
+    second: Lep_Super-hd_14
+  - first:
+      213: -8552056537433480808
+    second: Lep_Super-hd_15
+  - first:
+      213: -4740345456049332029
+    second: Lep_Super-hd_16
+  - first:
+      213: -5352598115722100289
+    second: Lep_Super-hd_17
+  - first:
+      213: 654739798526407416
+    second: Lep_Super-hd_18
+  - first:
+      213: 5064163918057562357
+    second: Lep_Super-hd_19
+  - first:
+      213: -2043059994709158745
+    second: Lep_Super-hd_20
+  - first:
+      213: -4344531089413192034
+    second: Lep_Super-hd_21
+  - first:
+      213: 1849638104366535035
+    second: Lep_Super-hd_22
+  - first:
+      213: -4781790317568606167
+    second: Lep_Super-hd_23
+  - first:
+      213: 6866846340551854651
+    second: Lep_Super-hd_24
+  - first:
+      213: 2629220868291531417
+    second: Lep_Super-hd_25
+  - first:
+      213: -4413738074194270493
+    second: Lep_Super-hd_26
+  - first:
+      213: -5056990681052940682
+    second: Lep_Super-hd_27
+  - first:
+      213: 1334215667375338205
+    second: Lep_Super-hd_28
+  - first:
+      213: -1775710154963476316
+    second: Lep_Super-hd_29
+  - first:
+      213: 6879503964449445762
+    second: Lep_Super-hd_30
+  - first:
+      213: -3200790789049322635
+    second: Lep_Super-hd_31
+  - first:
+      213: 5925460079767283867
+    second: Lep_Super-hd_32
+  - first:
+      213: 1438886509246476942
+    second: Lep_Super-hd_33
+  - first:
+      213: -4862051247309206285
+    second: Lep_Super-hd_34
+  - first:
+      213: -8234815580139910416
+    second: Lep_Super-hd_35
+  - first:
+      213: -3522561605233147025
+    second: Lep_Super-hd_36
+  - first:
+      213: -259952608362008178
+    second: Lep_Super-hd_37
+  - first:
+      213: 726377986828860042
+    second: Lep_Super-hd_38
+  - first:
+      213: 4355749207433647052
+    second: Lep_Super-hd_39
+  - first:
+      213: -8693569426150287564
+    second: Lep_Super-hd_40
+  - first:
+      213: -6572510003685539885
+    second: Lep_Super-hd_41
+  - first:
+      213: 2654530705679985186
+    second: Lep_Super-hd_42
+  - first:
+      213: -4367107465074437629
+    second: Lep_Super-hd_43
+  - first:
+      213: -8700494389560108600
+    second: Lep_Super-hd_44
+  - first:
+      213: 5529660049109283318
+    second: Lep_Super-hd_45
+  - first:
+      213: 3861057897440637004
+    second: Lep_Super-hd_46
+  - first:
+      213: -2351015133598456775
+    second: Lep_Super-hd_47
+  - first:
+      213: -3291897407721666245
+    second: Lep_Super-hd_48
+  - first:
+      213: 7107631030130796006
+    second: Lep_Super-hd_49
+  - first:
+      213: 3823858474907456556
+    second: Lep_Super-hd_50
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lep_Super-hd_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 464
+        width: 61
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377fed9fbf7645d90800000000000000
+      internalID: -7109943579784579213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Super-hd_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 464
+        width: 61
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7ac8446da9116e0800000000000000
+      internalID: -1868542125318297692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Super-hd_2
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 462
+        width: 61
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27489be824fae010800000000000000
+      internalID: 1219055105745635116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Super-hd_3
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 446
+        width: 64
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45a1f4eb88162980800000000000000
+      internalID: -8564130652277856949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Super-hd_4
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 443
+        width: 103
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44081dc37c83cac40800000000000000
+      internalID: 5524853271246766148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Super-hd_5
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 436
+        width: 102
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde84f675050be430800000000000000
+      internalID: 3813147030527971037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Super-hd_6
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 435
+        width: 75
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8dbc260158ffec80800000000000000
+      internalID: -8291135362086158965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Super-hd_7
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 350
+        width: 62
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087d7bfffc041c490800000000000000
+      internalID: -7727824223498414208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Super-hd_8
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 350
+        width: 60
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c906e0b8fd52500800000000000000
+      internalID: 370948332662594603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Super-hd_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 350
+        width: 60
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be04fa0ffe8239960800000000000000
+      internalID: 7607469206559211755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Super-hd_10
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 344
+        width: 76
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00f6e2ae3bddd270800000000000000
+      internalID: 8277012752244338699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Super-hd_11
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 335
+        width: 71
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011e0cb33de8541c0800000000000000
+      internalID: -4520049613104684784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Super-hd_12
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 332
+        width: 61
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b29619b884680d40800000000000000
+      internalID: 5550797079117730480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Super-hd_13
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 332
+        width: 60
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e27f55b033b0a300800000000000000
+      internalID: 261405800170222308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Super-hd_14
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 328
+        width: 61
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49c32e877f8cc230800000000000000
+      internalID: 3660458340793960780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Super-hd_15
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 326
+        width: 68
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8916833d3edf05980800000000000000
+      internalID: -8552056537433480808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Super-hd_16
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 324
+        width: 61
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0ea835ce8e63eb0800000000000000
+      internalID: -4740345456049332029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Super-hd_17
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 323
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb185fe7f50c7b5b0800000000000000
+      internalID: -5352598115722100289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Super-hd_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 236
+        width: 67
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f23a77b06a161900800000000000000
+      internalID: 654739798526407416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Super-hd_19
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 236
+        width: 60
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0eb2c9046874640800000000000000
+      internalID: 5064163918057562357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Super-hd_20
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 234
+        width: 83
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a49c8862c795a3e0800000000000000
+      internalID: -2043059994709158745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Super-hd_21
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 224
+        width: 74
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96c2e31eff15b3c0800000000000000
+      internalID: -4344531089413192034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Super-hd_22
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 222
+        width: 71
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b715bcd5e0c3ba910800000000000000
+      internalID: 1849638104366535035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Super-hd_23
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 222
+        width: 61
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920cbea8a0ba3adb0800000000000000
+      internalID: -4781790317568606167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Super-hd_24
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 221
+        width: 61
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ac8c75d50fb4f50800000000000000
+      internalID: 6866846340551854651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Super-hd_25
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 218
+        width: 61
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9929f82137edc7420800000000000000
+      internalID: 2629220868291531417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Super-hd_26
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 218
+        width: 61
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6a8044b904fb2c0800000000000000
+      internalID: -4413738074194270493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Super-hd_27
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 216
+        width: 61
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676f067c4c5f1d9b0800000000000000
+      internalID: -5056990681052940682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Super-hd_28
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 210
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2faab9416148210800000000000000
+      internalID: 1334215667375338205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Super-hd_29
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 122
+        width: 75
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0295da5096b57e0800000000000000
+      internalID: -1775710154963476316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Super-hd_30
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 122
+        width: 61
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28796ef0868e87f50800000000000000
+      internalID: 6879503964449445762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Super-hd_31
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 114
+        width: 80
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5737f526cb18493d0800000000000000
+      internalID: -3200790789049322635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Super-hd_32
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 113
+        width: 73
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9869415c867b3250800000000000000
+      internalID: 5925460079767283867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Super-hd_33
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 112
+        width: 69
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82fcb718a3f7f310800000000000000
+      internalID: 1438886509246476942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Super-hd_34
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 114
+        width: 78
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fcc36c9626868cb0800000000000000
+      internalID: -4862051247309206285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Super-hd_35
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 110
+        width: 61
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa88ea1cde08bd80800000000000000
+      internalID: -8234815580139910416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Super-hd_36
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 110
+        width: 61
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6306a422e85d1fc0800000000000000
+      internalID: -3522561605233147025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Super-hd_37
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 110
+        width: 61
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e817520ea76746cf0800000000000000
+      internalID: -259952608362008178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Super-hd_38
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 109
+        width: 69
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8af8953eec941a00800000000000000
+      internalID: 726377986828860042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Super-hd_39
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 87
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc395cf83dab27c30800000000000000
+      internalID: 4355749207433647052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Super-hd_40
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 104
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4379d1cdaac3a5780800000000000000
+      internalID: -8693569426150287564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Super-hd_41
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 2
+        width: 60
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df3f9b69f0c9c4a0800000000000000
+      internalID: -6572510003685539885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Super-hd_42
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 2
+        width: 78
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a2c6dcc99c6d420800000000000000
+      internalID: 2654530705679985186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Super-hd_43
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 2
+        width: 73
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302184006eae463c0800000000000000
+      internalID: -4367107465074437629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Super-hd_44
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 2
+        width: 61
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c99dfb2372a14780800000000000000
+      internalID: -8700494389560108600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Super-hd_45
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 2
+        width: 63
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1f3db648c4dbc40800000000000000
+      internalID: 5529660049109283318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Super-hd_46
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 2
+        width: 61
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c407a2273bb359530800000000000000
+      internalID: 3861057897440637004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Super-hd_47
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 2
+        width: 61
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934eb4431348f5fd0800000000000000
+      internalID: -2351015133598456775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Super-hd_48
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 2
+        width: 61
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3988b7bfb4d052d0800000000000000
+      internalID: -3291897407721666245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Super-hd_49
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 2
+        width: 61
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e56d7993c063a260800000000000000
+      internalID: 7107631030130796006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep_Super-hd_50
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 2
+        width: 59
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24d934f503111530800000000000000
+      internalID: 3823858474907456556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Lep_Super-hd_46: 3861057897440637004
+      Lep_Super-hd_39: 4355749207433647052
+      Lep_Super-hd_11: -4520049613104684784
+      Lep_Super-hd_26: -4413738074194270493
+      Lep_Super-hd_19: 5064163918057562357
+      Lep_Super-hd_44: -8700494389560108600
+      Lep_Super-hd_50: 3823858474907456556
+      Lep_Super-hd_37: -259952608362008178
+      Lep_Super-hd_4: 5524853271246766148
+      Lep_Super-hd_28: 1334215667375338205
+      Lep_Super-hd_32: 5925460079767283867
+      Lep_Super-hd_9: 7607469206559211755
+      Lep_Super-hd_14: 3660458340793960780
+      Lep_Super-hd_12: 5550797079117730480
+      Lep_Super-hd_13: 261405800170222308
+      Lep_Super-hd_6: -8291135362086158965
+      Lep_Super-hd_16: -4740345456049332029
+      Lep_Super-hd_17: -5352598115722100289
+      Lep_Super-hd_18: 654739798526407416
+      Lep_Super-hd_20: -2043059994709158745
+      Lep_Super-hd_10: 8277012752244338699
+      Lep_Super-hd_35: -8234815580139910416
+      Lep_Super-hd_43: -4367107465074437629
+      Lep_Super-hd_41: -6572510003685539885
+      Lep_Super-hd_49: 7107631030130796006
+      Lep_Super-hd_34: -4862051247309206285
+      Lep_Super-hd_30: 6879503964449445762
+      Lep_Super-hd_38: 726377986828860042
+      Lep_Super-hd_8: 370948332662594603
+      Lep_Super-hd_5: 3813147030527971037
+      Lep_Super-hd_27: -5056990681052940682
+      Lep_Super-hd_24: 6866846340551854651
+      Lep_Super-hd_31: -3200790789049322635
+      Lep_Super-hd_40: -8693569426150287564
+      Lep_Super-hd_45: 5529660049109283318
+      Lep_Super-hd_42: 2654530705679985186
+      Lep_Super-hd_22: 1849638104366535035
+      Lep_Super-hd_15: -8552056537433480808
+      Lep_Super-hd_0: -7109943579784579213
+      Lep_Super-hd_47: -2351015133598456775
+      Lep_Super-hd_3: -8564130652277856949
+      Lep_Super-hd_33: 1438886509246476942
+      Lep_Super-hd_1: -1868542125318297692
+      Lep_Super-hd_29: -1775710154963476316
+      Lep_Super-hd_21: -4344531089413192034
+      Lep_Super-hd_36: -3522561605233147025
+      Lep_Super-hd_25: 2629220868291531417
+      Lep_Super-hd_7: -7727824223498414208
+      Lep_Super-hd_23: -4781790317568606167
+      Lep_Super-hd_2: 1219055105745635116
+      Lep_Super-hd_48: -3291897407721666245
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
